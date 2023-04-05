@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "390904625174",
+    "firebase_url": "https://kahoosqldatabase-default-rtdb.firebaseio.com",
+    "project_id": "kahoosqldatabase",
+    "storage_bucket": "kahoosqldatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390904625174:android:346f33aca17675c6609d37",
+        "android_client_info": {
+          "package_name": "com.example.javasqldatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ19rskim7IJhSDZOxuTfRxDusC7v_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390904625174:android:c4da64c449598fc0609d37",
+        "android_client_info": {
+          "package_name": "com.nk.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ19rskim7IJhSDZOxuTfRxDusC7v_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390904625174:android:a318db893e24fd00609d37",
+        "android_client_info": {
+          "package_name": "com.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ19rskim7IJhSDZOxuTfRxDusC7v_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390904625174:android:28cea727707e2cde609d37",
+        "android_client_info": {
+          "package_name": "come.nk.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ19rskim7IJhSDZOxuTfRxDusC7v_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390904625174-k63bugcp3hf3b59sa1buahec23lgkin6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
