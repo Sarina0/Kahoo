@@ -16,8 +16,10 @@ Repetition: Users can retake quizzes as many times as they’d like, helping to 
 Data Addition: Easily add quiz data to the database for storage and retrieval.
 Rendering and Viewing: Efficiently render and view quiz questions from the database, providing a seamless user experience.
 # Usage
-
-
+### Launch the application:
+#### Open the Kahoo app on your Android device.
+#### Create a Quiz: Choose **Teacher** as your entry to access the Create a Quiz.
+#### Study Mode: Choose **Student** as your entry to access the questions in the App.
 # Download 
 Here is the [link]() to the apk file of **Kahoo**!
 For a free online Android Emulator download the [ApkOnline APK manager for Android emulator Chrom extentinon](https://chromewebstore.google.com/detail/apkonline-apk-manager-for/lnhnebkkgjmlgomfkkmkoaefbknopmja). 
