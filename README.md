@@ -16,13 +16,9 @@ Repetition: Users can retake quizzes as many times as they’d like, helping to 
 Data Addition: Easily add quiz data to the database for storage and retrieval.
 Rendering and Viewing: Efficiently render and view quiz questions from the database, providing a seamless user experience.
 # Usage
-# Installation
-### Clone the repository:
-git clone https://github.com/your-username/kahoo-app.git
-cd kahoo-app
-### Set up a virtual environment:
-### Install dependencies:
-
-### Run the application:
 
 
+# Download 
+Here is the [link]() to the apk file of **Kahoo**!
+For a free online Android Emulator download the [ApkOnline APK manager for Android emulator Chrom extentinon](https://chromewebstore.google.com/detail/apkonline-apk-manager-for/lnhnebkkgjmlgomfkkmkoaefbknopmja). 
+Add your apk file to the file manager and from there run ***Kahoo***
